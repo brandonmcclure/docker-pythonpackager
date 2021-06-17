@@ -1,3 +1,5 @@
+[![Docker Stars](https://img.shields.io/docker/stars/bmcclure89/docker-pythonpackager.svg?style=flat-square)](https://hub.docker.com/r/bmcclure89/docker-pythonpackager/) [![Docker Pulls](https://img.shields.io/docker/pulls/bmcclure89/docker-pythonpackager.svg?style=flat-square)](https://hub.docker.com/r/bmcclure89/docker-pythonpackager/) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/bmcclure89/docker-pythonpackager)
+
 This image can be used to build your python packages using wheel, push the package to our Azure Devops repo, and then clean up after it's self. 
 
 build this image:
